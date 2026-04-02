@@ -1,14 +1,16 @@
 using System.Diagnostics;
+using MentorApp.Data;
 using Microsoft.AspNetCore.Mvc;
 using MentorApp.Models;
 
 namespace MentorApp.Controllers;
 
-public class HomeController : Controller
+public class HomeController(MentorAppDbContext context) : Controller
 {
     public IActionResult Index()
     {
-        return View();
+        var sliders = context.Sliders.ToList();
+        return View(sliders);
     }
 
     
