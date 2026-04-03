@@ -5,6 +5,13 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+var path = window.location.pathname.split("/")[1];
+if(path=""){
+  document.getElementById("home").classList.add("active");
+}
+else{
+  document.getElementById(path).classList.add("active");
+}
 
 (function() {
   "use strict";

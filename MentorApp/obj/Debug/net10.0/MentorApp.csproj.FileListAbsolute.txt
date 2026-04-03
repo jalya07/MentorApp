@@ -93,7 +93,6 @@
 /Users/jalyahesenli/RiderProjects/MentorApp/MentorApp/obj/Debug/net10.0/MentorApp.genruntimeconfig.cache
 /Users/jalyahesenli/RiderProjects/MentorApp/MentorApp/obj/Debug/net10.0/ref/MentorApp.dll
 /Users/jalyahesenli/RiderProjects/MentorApp/MentorApp/obj/Debug/net10.0/compressed/pjdoortmwb-{0}-shrhhhn9to-shrhhhn9to.gz
-/Users/jalyahesenli/RiderProjects/MentorApp/MentorApp/obj/Debug/net10.0/compressed/ayh919hv9a-{0}-8tonwgpdzk-8tonwgpdzk.gz
 /Users/jalyahesenli/RiderProjects/MentorApp/MentorApp/obj/Debug/net10.0/compressed/3b5y98dm0u-{0}-f8ppisvi1s-f8ppisvi1s.gz
 /Users/jalyahesenli/RiderProjects/MentorApp/MentorApp/obj/Debug/net10.0/compressed/d4ea84mpkr-{0}-jfm3rcjzyc-jfm3rcjzyc.gz
 /Users/jalyahesenli/RiderProjects/MentorApp/MentorApp/obj/Debug/net10.0/compressed/cv17sr5tfp-{0}-akmhyfivmy-akmhyfivmy.gz
@@ -298,3 +297,4 @@
 /Users/jalyahesenli/RiderProjects/MentorApp/MentorApp/obj/Debug/net10.0/MentorApp.csproj.AssemblyReference.cache
 /Users/jalyahesenli/RiderProjects/MentorApp/MentorApp/obj/Debug/net10.0/MentorApp.sourcelink.json
 /Users/jalyahesenli/RiderProjects/MentorApp/MentorApp/obj/Debug/net10.0/MentorApp.csproj.Up2Date
+/Users/jalyahesenli/RiderProjects/MentorApp/MentorApp/obj/Debug/net10.0/compressed/ayh919hv9a-{0}-e47pjx4d6s-e47pjx4d6s.gz

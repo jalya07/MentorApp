@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MentorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21b244cfc0e49f4003490d0c0c1a93c29f6ce905")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c944947f5a13017249956d914b1432abc3a064f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MentorApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MentorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
